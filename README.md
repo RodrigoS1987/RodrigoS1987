@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Rodrigo Santos.
-- 🌱Atualmente estudo na <a href="https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer"_brank>"DIGITAL HOUSE DH."</a>
+- 🌱Atualmente estudo na <a href="https://www.digitalhouse.com/br" target="_blank">Digital House</a>
 - 👨🏽‍💻Estou cursando Tech Developer
 
 <div>
